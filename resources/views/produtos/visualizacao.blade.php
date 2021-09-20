@@ -1,4 +1,6 @@
 <div>
+
+
     <h1> Criar pergunta ao produto: </h1>
 
     <form action="{{ route('pergunta_produto') }}" method="POST">
