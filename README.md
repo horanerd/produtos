@@ -1,5 +1,9 @@
 # produtos
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/horanerd/Pega-preco/blob/main/LICENSE)
+
+### Sobre o projeto
+
 Sistema em laravel de cadastro de produto
 
 Como utilizar este sistema:
